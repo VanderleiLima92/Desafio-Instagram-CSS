@@ -1,2 +1,2 @@
-# Repositório do desafio CSS/HTML da DIO
-instagram-desafio-dio
+# Desafio CSS/HTML da DIO
+## Repositório instagram-desafio-dio
